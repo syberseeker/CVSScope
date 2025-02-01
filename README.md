@@ -13,7 +13,7 @@ This is my first hobby project to experiment the CVSS scoring and OSSTMM scoring
 
 # How to Use
 
-- Just run ***python3 cvsscope_v3.py***
+- Download ***cvsscope_v3.py*** from this repository and run ***python3 cvsscope_v3.py***
 
 # Version
 
