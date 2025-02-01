@@ -17,7 +17,7 @@ This is my first hobby project to experiment the CVSS scoring and OSSTMM scoring
 
 # Version
 
-**v3.0 (2025-02-02)**
+**v3.0 CVSScope (2025-02-02)**
 - Renaming this project from Fast Vuln Scanner to CVSScope ✅
 - Replacing python-nmap module with nmap module ✅
 - Vulners script check ✅
