@@ -1,9 +1,6 @@
 # CVSScope
 
-![image](https://github.com/user-attachments/assets/21ce28f1-17f0-4ab1-b9bb-633ee2782dc2)
-
 This is my first hobby project to experiment the CVSS scoring and OSSTMM scoring using nmap module. This simple tool will perform the vulnerability scan by entering the target IP and the result can be export in the CSV format.
-
 
 # Installation
 
@@ -52,8 +49,27 @@ Nmap Arguments Improvement:
 - Adding capability to perform attack surface discovery
 - Adding capability to classify attack surface types
 
-# Scan Result Example
+# Output Sample
 
-![image](https://github.com/user-attachments/assets/131718eb-6424-4d56-afda-29a60b58fe6c)
+**Startup Prompt**
+
+![image](https://github.com/user-attachments/assets/21ce28f1-17f0-4ab1-b9bb-633ee2782dc2)
+
+**Checking for vulners script**
+
+![image](https://github.com/user-attachments/assets/092a632c-4c86-4e51-bfa6-9cc49b40927b)
+
+**OS Detection**
+
+![image](https://github.com/user-attachments/assets/cc9b0742-3997-451c-b439-4befa0619eca)
+
+**Stealth Mode Selection**
+
+![image](https://github.com/user-attachments/assets/d6dcaac4-8e14-4b59-906b-bcbc7cc5c89c)
+
+**Vulnerability Scan Result**
+
+![image](https://github.com/user-attachments/assets/19cc23ad-9cd8-436a-be5a-c2a48ae96fdb)
+
 
 
