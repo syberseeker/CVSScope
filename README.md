@@ -13,7 +13,7 @@ This is my first hobby project to experiment the CVSS scoring and OSSTMM scoring
 
 # How to Use
 
-- Just run ***python cvsscope_v2.py***
+- Just run ***python3 cvsscope_v2.py***
 
 # Version
 
@@ -48,5 +48,4 @@ Nmap Arguments Improvement:
 
 - Adding capability to perform attack surface discovery
 - Adding capability to classify attack surface types
-
 
