@@ -5,14 +5,15 @@ This is my first hobby project to experiment the CVSS scoring and OSSTMM scoring
 
 # Installation
 
-- ***pip install python-nmap***
+- ***pip install nmap***
 - ***pip install tabulate***
 - ***pip install colorama***
 - ***pip install signal***
+- ***pip install pandas***
 
 # How to Use
 
-- Just run ***python fv_scanner.py***
+- Just run ***python cvsscope_v2.py***
 
 # Version
 
