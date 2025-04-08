@@ -44,7 +44,7 @@ Nmap Arguments Improvement:
 - Ability to export the scan result in the CSV format ✅
 
 
-# Next Roadmap v3.0
+# Next Roadmap v4.0
 
 - Adding capability to perform attack surface discovery
 - Adding capability to classify attack surface types
